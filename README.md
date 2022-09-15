@@ -7,3 +7,4 @@
 - C'est parti !
 
 > Vous pouvez personnaliser le nombre de cases horizontales et verticales, les joueurs switchent automatiquement.
+> Il n'y a pas de conditions de victoire
